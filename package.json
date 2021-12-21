@@ -3,7 +3,7 @@
   "version": "1.2.4",
   "description": "Infinite scroll component for React in ES6",
   "main": "index.js",
-  "jsnext:main": "src/InfiniteScroll.js",
+  "jsnext:main": "dist/InfiniteScroll.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/CassetteRocks/react-infinite-scroller.git"
